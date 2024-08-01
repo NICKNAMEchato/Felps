@@ -4,8 +4,8 @@
 }
 body {
 .cabecalho {
-    background-color: #424E61;
-    color: white;
+    background-color: #e70dc3;
+    color: rgb(238, 13, 13);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -31,7 +31,7 @@ body {
 }
 
 #escola{
-    background-image: linear-gradient(#8AB1EC,#4E6486);
+    background-image: linear-gradient(#0ae7b0,#e7167fd7);
     color:white;
     display: flex;
     justify-content: center;
@@ -75,7 +75,7 @@ body {
     grid-template-columns: 20% 20% 20% 20% 20%;
 }
 .rodape{
-    background-color: #8EA1BD;
+    background-color: #b33b95ec;
     text-align: center;
 }
 
